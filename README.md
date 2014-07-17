@@ -1,5 +1,5 @@
-Cards-mnemonics
-===============
+My Cards Mnemonics
+==================
 
 | Card              | Person                | Action                         | Object                   |
 | ----------------- | --------------------- | ------------------------------ | ------------------------ |
@@ -55,3 +55,5 @@ Cards-mnemonics
 | :spades: **J**    | The Dalai Lama        | praying to                     | a Buddha                 |
 | :spades: **Q**    | Victoria Beckham      | applying lipstick in front of  | a mirror                 |
 | :spades: **K**    | David Beckham         | kicking                        | a football               |
+
+c.f. https://github.com/chrishunt/cards
